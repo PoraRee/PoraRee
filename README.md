@@ -1,6 +1,8 @@
 ### Hi there 👋
 My name is Poravee Binhayeearason, you can call me Ree. I graduated from Chulalongkorn University in November 2023 with a bachelor’s degree in Computer Engineering. I am interested in Machine Learning and Data Science.
 
+### Skills
+
 <div style="display: flex; flex-direction: column; gap: 16px">
     <div style="display: flex; gap: 16px; align-items: flex-end">
         <img src="https://github-readme-stats.vercel.app/api?username=PoraRee&show_icons=true&theme=dark" alt="PoraRee's GitHub stats">
